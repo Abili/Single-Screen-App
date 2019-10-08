@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="description">We are a fuel and petroleum company
+    that is currently located in about 24 countries in africa. on top of the fuel stations
+    we also own a basketball team in Uganda called CityOil.</string>
+    <string name="description_heading">Description</string>
+    <string name="about_us_title">About Us</string>
+    <string name="cityoil_comp_heading">CityOil</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="cityoil_PhoneNumber">+256788347865</string>
+    <string name="cityoil_email">cityoil@gmail.com</string>
+    <string name="cityoil_website">www.cityoil.com</string>
+    <string name="location">we are located in about 24 countries in Africa In each of their capital cities</string>
+    <string name="content_description_profileimag">Company profile Image</string>
+    <string name="operation_hours">Open 24 hours</string>
+</resources>
